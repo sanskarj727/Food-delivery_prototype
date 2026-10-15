@@ -1,0 +1,13 @@
+# Binaries and build output
+*.exe
+*.out
+*.test
+/food-delivery-api
+
+# Environment and secrets
+.env
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store

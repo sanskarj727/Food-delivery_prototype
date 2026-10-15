@@ -1,4 +1,4 @@
-module example/prac
+module github.com/sanskarj727/food-delivery-api
 
 go 1.21.0
 
